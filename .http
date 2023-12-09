@@ -1,0 +1,2 @@
+GET http://localhost/api-klientz/cliente/4 HTTP/1.1
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJmdWxhbm8iLCJleHBpcmVzX2luIjoxNzAyMTQ5MzM4fQ.Mzg8_euKgiz_YBsqpsEGI1rT_vSkGVBG7Xj27FTIux0
